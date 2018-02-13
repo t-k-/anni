@@ -38,7 +38,7 @@ export default {
 		},
 		{
 			"description": "宝宝又飞走，和嘉嘉第二次异国",
-			"day": "2018-01-15"
+			"day": "2018-01-11"
 		},
 		{
 			"description": "宇宙第一美少女出生",
